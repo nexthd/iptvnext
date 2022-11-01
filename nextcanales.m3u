@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-28 tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES", UGA TV
+https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+
+#EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+
+#EXTINF:-26 tvg-logo="https://play-lh.googleusercontent.com/DAgKwTGXnOAkopAV11A5FXIYipr7xqXpGZEQxvZgJb-qc8P1EkBrD6thXgsL5IbzspI" group-title="NACIONALES", TAPUA TV
+https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
+
+#EXTINF:-26 tvg-logo="https://i.postimg.cc/3wHgJVv6/rtv.png" group-title="NACIONALES", RTV CANAL 12
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
