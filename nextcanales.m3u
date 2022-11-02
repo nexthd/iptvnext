@@ -11,3 +11,6 @@ https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 
 #EXTINF:-26 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png" group-title="NACIONALES", NEXT HD
 https://live.enhdtv.com:1936/davidguerrero/davidguerrero/playlist.m3u8
+
+#EXTINF:-26 tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="Peru", Autentica Television
+https://live.obslivestream.com/autenticatvmux/index.m3u8
