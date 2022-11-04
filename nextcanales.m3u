@@ -24,5 +24,8 @@ https://tigocloudtf.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?k=2ebc8ae52b
 #EXTINF:-26 group-title="NACIONALES", 4D NOTICIAS
 https://tigocloud.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/chunklist_w24615351.m3u8
 
-#EXTINF:-26 group-title="NACIONALES", E40 TV
+#EXTINF:-26 group-title="NACIONALES", E40 TV" tvg-logo="https://estacion40.com.py/wp-content/uploads/2022/06/logo-e40_opt.png
 https://tigocloudtf.desdeparaguay.net/e40tv/e40tv_py_alta/chunklist_w96836693.m3u8
+
+#EXTINF:-1 group-title="NACIONALES tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png", Suceso TV | PY
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
