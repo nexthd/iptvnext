@@ -24,7 +24,7 @@ https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 #EXTINF:-26 group-title="NACIONALES", 4D NOTICIAS
 https://tigocloud.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
-#EXTINF:-26 group-title="NACIONALES", ABC TV" tvg-logo="https://lh3.googleusercontent.com/-1aiXS-QFPKk/YIDhp6c_siI/AAAAAAABB2Q/nflof0ITHkMoR3Jh4jO78mWmvAUw4vCyACK8BGAsYHg/s512/2021-04-21.png
+#EXTINF:-1 tvg-id="830" tvg-name="ABC TV" tvg-logo="https://lh3.googleusercontent.com/-1aiXS-QFPKk/YIDhp6c_siI/AAAAAAABB2Q/nflof0ITHkMoR3Jh4jO78mWmvAUw4vCyACK8BGAsYHg/s512/2021-04-21.png",
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 #EXTINF:-1 group-title="NACIONALES tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png", Suceso TV | PY
