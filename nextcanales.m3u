@@ -48,8 +48,35 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Villa Elisa TV" tvg-logo="https://iptv.com.py/tv/players/logos/villaelisa.jpg", Villa Elisa TV | PY
 https://59ce1298bfb98.streamlock.net/villaelisa/villaelisa/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="LOS SIMPSON 24/7" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/The-Simpsons-logo-500x222.png", LOS SIMPSONS 24/7 | PY
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="LOS SIMPSON 24/7" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/The-Simpsons-logo-500x222.png", LOS SIMPSONS 24/7 | CR
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="COLOSAL HD" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/player_image/public/2022-09/colosal-tv-costa-rica.png.webp?itok=qq8h7JxT", COLOSAL TV HD | PY
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="COLOSAL HD" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/302171274_782731862907512_7764674860870159712_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=28HqrIfMg2sAX-h6tpC&_nc_ht=scontent.fasu9-1.fna&oh=00_AfA0N07rjhmowWVMFXUiIvOR57a8AI33VbXVLvdPWuVt7Q&oe=636A8C98", COLOSAL TV HD | CR
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="TELE SUR COSTA RICA" tvg-logo="https://telesurcostarica.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png", TELE SUR COSTA RICA | CR
+http://k3.usastreams.com/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV|UY
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Señal Urbana" tvg-logo="https://i2.paste.pics/98c300d4c9b1e3f00f1968bf4dab9f1f.png", Señal Urbana|AR
+https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus|CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png", Rewind Radio y TV|CL
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png", Recuerdos Retro Radio TV|CL
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV 2|CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network|VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision|VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
