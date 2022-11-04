@@ -3,35 +3,42 @@
 #EXTINF:-26 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png" group-title="NACIONALES", NEXT HD
 https://live.enhdtv.com:1936/davidguerrero/davidguerrero/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Frutillar TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Frutillar TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
 https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="830" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV | PY
 http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
 
-#EXTINF:-28 tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES", UGA TV
+#EXTINF:-28 group-title="NACIONALES" tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES", UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
-#EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
+#EXTINF:-26 group-title="NACIONALES" tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:-26 tvg-logo="https://iptv.com.py/tv/players/logos/tvsenadopy.jpg" group-title="NACIONALES", Senado TV
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Almaya TV" tvg-logo="https://iptv.com.py/tv/players/logos/almayatv.jpeg", Almaya TV | PY
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-id="830" tvg-name="Dismar TV" tvg-logo="https://iptv.com.py/tv/players/logos/canal8.png", CANAL 8 TV | PY
+https://59ce1298bfb98.streamlock.net/canal8tv/canal8tv/playlist.m3u8
+
+#EXTINF:-26 group-title="NACIONALES" tvg-logo="https://iptv.com.py/tv/players/logos/tvsenadopy.jpg" group-title="NACIONALES", Senado TV
 https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
 
-#EXTINF:-26 tvg-logo="https://iptv.com.py/tv/players/logos/educanal.jpg" group-title="NACIONALES", EDU CANAL
+#EXTINF:-26 group-title="NACIONALES" tvg-logo="https://iptv.com.py/tv/players/logos/educanal.jpg" group-title="NACIONALES", EDU CANAL
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
 #EXTINF:-26 group-title="NACIONALES", 4D NOTICIAS
 https://tigocloud.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="836" tvg-name="ABC TV" tvg-logo="https://lh3.googleusercontent.com/-1aiXS-QFPKk/YIDhp6c_siI/AAAAAAABB2Q/nflof0ITHkMoR3Jh4jO78mWmvAUw4vCyACK8BGAsYHg/s512/2021-04-21.png", ABC TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="ABC TV" tvg-logo="https://lh3.googleusercontent.com/-1aiXS-QFPKk/YIDhp6c_siI/AAAAAAABB2Q/nflof0ITHkMoR3Jh4jO78mWmvAUw4vCyACK8BGAsYHg/s512/2021-04-21.png", ABC TV | PY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-1 group-title="NACIONALES tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png", Suceso TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png", Suceso TV | PY
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="830" tvg-name="Concierto TV" tvg-logo="https://iptv.com.py/tv/players/logos/radioconcierto.jpg", Concierto TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Concierto TV" tvg-logo="https://iptv.com.py/tv/players/logos/radioconcierto.jpg", Concierto TV | PY
 https://59ce1298bfb98.streamlock.net/concierto/concierto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="830" tvg-name="PDS TV" tvg-logo="https://iptv.com.py/tv/players/logos/pdslogo1.jpg", PDS TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="PDS TV" tvg-logo="https://iptv.com.py/tv/players/logos/pdslogo1.jpg", PDS TV | PY
 https://59ce1298bfb98.streamlock.net/pdstv/pdstv/playlist.m3u8
+
