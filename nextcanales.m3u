@@ -1,16 +1,22 @@
 #EXTM3U
 
+#EXTINF:-26 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png" group-title="NACIONALES", NEXT HD
+https://live.enhdtv.com:1936/davidguerrero/davidguerrero/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Frutillar TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
+https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="830" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV | PY
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
+
 #EXTINF:-28 tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES", UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
 #EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:-26 tvg-logo="https://play-lh.googleusercontent.com/DAgKwTGXnOAkopAV11A5FXIYipr7xqXpGZEQxvZgJb-qc8P1EkBrD6thXgsL5IbzspI" group-title="NACIONALES", TAPUA TV
-https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
+#EXTINF:-26 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/npy.jpg?itok=8a_ZQuEe" group-title="NACIONALES", NPY
+https://tigocloudtf.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?k=2ebc8ae52bc7c9b7ede92e5ea841e0c11ae21c3db5f6b34bf5b731b2fa7f09fc&exp=1667574519
 
-#EXTINF:-26 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png" group-title="NACIONALES", NEXT HD
-https://live.enhdtv.com:1936/davidguerrero/davidguerrero/playlist.m3u8
-
-#EXTINF:-26 tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="Peru", Autentica Television
-https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="830" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV | PY
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
