@@ -47,3 +47,9 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Villa Elisa TV" tvg-logo="https://iptv.com.py/tv/players/logos/villaelisa.jpg", Villa Elisa TV | PY
 https://59ce1298bfb98.streamlock.net/villaelisa/villaelisa/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="LOS SIMPSON 24/7" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/The-Simpsons-logo-500x222.png", LOS SIMPSONS 24/7 | PY
+http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="COLOSAL HD" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/player_image/public/2022-09/colosal-tv-costa-rica.png.webp?itok=qq8h7JxT", COLOSAL TV HD | PY
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
