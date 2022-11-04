@@ -80,3 +80,15 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision|VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos|DO
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV|DO
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Canal 8 Punta Cana TV" tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png", Canal 8 Punta Cana TV|DO
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="ADN 40" tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40|MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
