@@ -6,6 +6,9 @@ https://live.enhdtv.com:1936/davidguerrero/davidguerrero/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Frutillar TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
 https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/playlist.m3u8
 
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Lim TV" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/290433377_5849446228417002_1295232288420533377_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZoQiNuVEyoEAX9ulB12&_nc_ht=scontent.fasu9-1.fna&oh=00_AfCJREsWKPWtc4CVqa8nTX4KQr1VRf9Bgu-CMRxmQ_Uh1g&oe=636AEFB0", Lim TV|PY
+https://live.limplay.ml/limtv.m3u8
+
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV | PY
 http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
 
