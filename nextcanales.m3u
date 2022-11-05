@@ -6,10 +6,13 @@ https://live.enhdtv.com:1936/davidguerrero/davidguerrero/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Frutillar TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
 https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-name="Lim TV" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/290433377_5849446228417002_1295232288420533377_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZoQiNuVEyoEAX9ulB12&_nc_ht=scontent.fasu9-1.fna&oh=00_AfCJREsWKPWtc4CVqa8nTX4KQr1VRf9Bgu-CMRxmQ_Uh1g&oe=636AEFB0", Lim TV|PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Lim TV" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/290433377_5849446228417002_1295232288420533377_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZoQiNuVEyoEAX9ulB12&_nc_ht=scontent.fasu9-1.fna&oh=00_AfCJREsWKPWtc4CVqa8nTX4KQr1VRf9Bgu-CMRxmQ_Uh1g&oe=636AEFB0", Lim TV
 https://live.limplay.ml/limtv.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="NEXT HD PLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj13iBSEOAoHRh3rzAUOt1ua-UIlajT5NUHtLQ6-J9i4Otw0cGr1RCNiWgqQ6Zsr3TIY4K6SZwNugtA-jEp8-t3ES0QKt3jnZBka4BTRtys3sAlcu7DEpE7Pz45JWWPGaDqUpDchJrAIXzO9DGokJeDGB9KBoGHZ_B6YO-8KGnvdwnSFXUTj1HJgPMqWQ/s1080/NEXT%20HD%20PLUS.png", NEXT HD PLUS
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV
 http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
 
 #EXTINF:-28 group-title="NACIONALES" tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES", UGA TV
@@ -33,31 +36,31 @@ https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 #EXTINF:-26 group-title="NACIONALES", 4D NOTICIAS
 https://tigocloud.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-name="ABC TV" tvg-logo="https://lh3.googleusercontent.com/-1aiXS-QFPKk/YIDhp6c_siI/AAAAAAABB2Q/nflof0ITHkMoR3Jh4jO78mWmvAUw4vCyACK8BGAsYHg/s512/2021-04-21.png", ABC TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="ABC TV" tvg-logo="https://lh3.googleusercontent.com/-1aiXS-QFPKk/YIDhp6c_siI/AAAAAAABB2Q/nflof0ITHkMoR3Jh4jO78mWmvAUw4vCyACK8BGAsYHg/s512/2021-04-21.png", ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png", Suceso TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png", Suceso TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-name="Concierto TV" tvg-logo="https://iptv.com.py/tv/players/logos/radioconcierto.jpg", Concierto TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Concierto TV" tvg-logo="https://iptv.com.py/tv/players/logos/radioconcierto.jpg", Concierto TV
 https://59ce1298bfb98.streamlock.net/concierto/concierto/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-name="PDS TV" tvg-logo="https://iptv.com.py/tv/players/logos/pdslogo1.jpg", PDS TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="PDS TV" tvg-logo="https://iptv.com.py/tv/players/logos/pdslogo1.jpg", PDS TV
 https://59ce1298bfb98.streamlock.net/pdstv/pdstv/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-name="RCSC TV" tvg-logo="https://iptv.com.py/tv/players/logos/RCSC.jpg", RCSC TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="RCSC TV" tvg-logo="https://iptv.com.py/tv/players/logos/RCSC.jpg", RCSC TV
 https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-name="Villa Elisa TV" tvg-logo="https://iptv.com.py/tv/players/logos/villaelisa.jpg", Villa Elisa TV | PY
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Villa Elisa TV" tvg-logo="https://iptv.com.py/tv/players/logos/villaelisa.jpg", Villa Elisa TV
 https://59ce1298bfb98.streamlock.net/villaelisa/villaelisa/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="LOS SIMPSON 24/7" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/The-Simpsons-logo-500x222.png", LOS SIMPSONS 24/7 | CR
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="LOS SIMPSON 24/7" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/The-Simpsons-logo-500x222.png", LOS SIMPSONS 24/7
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="COLOSAL HD" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/302171274_782731862907512_7764674860870159712_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=28HqrIfMg2sAX-h6tpC&_nc_ht=scontent.fasu9-1.fna&oh=00_AfA0N07rjhmowWVMFXUiIvOR57a8AI33VbXVLvdPWuVt7Q&oe=636A8C98", COLOSAL TV HD | CR
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="COLOSAL HD" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/302171274_782731862907512_7764674860870159712_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=28HqrIfMg2sAX-h6tpC&_nc_ht=scontent.fasu9-1.fna&oh=00_AfA0N07rjhmowWVMFXUiIvOR57a8AI33VbXVLvdPWuVt7Q&oe=636A8C98", COLOSAL TV HD|CR
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="TELE SUR COSTA RICA" tvg-logo="https://telesurcostarica.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png", TELE SUR COSTA RICA | CR
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="TELE SUR COSTA RICA" tvg-logo="https://telesurcostarica.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png", TELE SUR COSTA RICA|CR
 http://k3.usastreams.com/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV|UY
