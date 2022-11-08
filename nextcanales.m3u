@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:-26 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png" group-title="NACIONALES", NEXT HD
-https://live.enhdtv.com:1936/davidguerrero/davidguerrero/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-name="NEXT HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png", NEXT HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Frutillar TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
 https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Lim TV" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/290433377_5849446228417002_1295232288420533377_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZoQiNuVEyoEAX9ulB12&_nc_ht=scontent.fasu9-1.fna&oh=00_AfCJREsWKPWtc4CVqa8nTX4KQr1VRf9Bgu-CMRxmQ_Uh1g&oe=636AEFB0", Lim TV
 https://live.limplay.ml/limtv.m3u8
-
-#EXTINF:-1 group-title="NACIONALES" tvg-name="NEXT HD PLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj13iBSEOAoHRh3rzAUOt1ua-UIlajT5NUHtLQ6-J9i4Otw0cGr1RCNiWgqQ6Zsr3TIY4K6SZwNugtA-jEp8-t3ES0QKt3jnZBka4BTRtys3sAlcu7DEpE7Pz45JWWPGaDqUpDchJrAIXzO9DGokJeDGB9KBoGHZ_B6YO-8KGnvdwnSFXUTj1HJgPMqWQ/s1080/NEXT%20HD%20PLUS.png", NEXT HD PLUS
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV
 http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
