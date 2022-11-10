@@ -98,3 +98,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS" tvg-name="CARTOON NETWORK" tvg-logo="https://cncdn.dmti.cloud/5755eeda78347181b378c18e98cc1ceae3e83cb7/static/media/cn-logo.3f4d7cfb.svg", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-name="VEVO HITS RE" tvg-logo="https://play-lh.googleusercontent.com/S3Wc8RcjrGvFwn6y8Q6xQRVGxO2FJr9HIaN7pxO-uG9i6D8ijNXAtoEwkBk0JLc69w=w240-h480", VEVO HITS RE
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-name="MTV LATINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/MTV_2009.svg/revision/latest/scale-to-width-down/78?cb=20210529221638&path-prefix=es", MTV LATINO
+https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
