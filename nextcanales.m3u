@@ -102,5 +102,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="VEVO HITS RE" tvg-logo="https://play-lh.googleusercontent.com/S3Wc8RcjrGvFwn6y8Q6xQRVGxO2FJr9HIaN7pxO-uG9i6D8ijNXAtoEwkBk0JLc69w=w240-h480", VEVO HITS RE
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-name="MTV LATINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/MTV_2009.svg/revision/latest/scale-to-width-down/78?cb=20210529221638&path-prefix=es", MTV LATINO
-https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
+#EXTINF:-1 group-title="MUSICA" tvg-name="TOP LATINO" tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png", TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-name="VENUS MEDIA PY" tvg-logo="https://www.venus.com.py/wp-content/themes/zox-news-venus/images/logos/logo-large.png", VENUS MEDIA PY
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-name="VIRQIN" tvg-logo="https://img2.freepng.es/20180428/tkw/kisspng-virgin-media-channel-one-television-channel-virgin-5ae46a56e9f2b2.9045518215249188709583.jpg", VIRQIN DIGITA TV
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
