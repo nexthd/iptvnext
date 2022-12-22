@@ -119,3 +119,7 @@ https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=2eacf99ee92366
 
 #EXTINF:-1 group-title="MUSICA" tvg-name="ASPEN TV" tvg-logo=https://www.radioaspen.com.py/wp-content/uploads/2021/02/aspenlogo.png", ASPEN TV PY
 https://tigocloudgen.desdeparaguay.net/aspentv/aspentv/chunklist_w259672832.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-name="NEXT EVENTOS" tvg-logo=", NEXT EVENTO
+https://raw.githubusercontent.com/nexthd/iptvnext/main/nexthd.m3u8
+https://tigocloudgen.desdeparaguay.net/aspentv/aspentv/chunklist_w259672832.m3u8
