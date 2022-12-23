@@ -2,4 +2,4 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextDATA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1280x720,VIDEO="src"
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+https://livestreams.flote.app:5443/flote/streams/9dd256fa-0d46-4ab8-908e-c2984ef67e02.m3u8
