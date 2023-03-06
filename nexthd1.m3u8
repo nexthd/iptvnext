@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextDATA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1280x720,VIDEO="src"
+#EXTINF:-1 tvg-id="AigaioTV.gr" status="online",Aigaio TV (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ssh101.com/
 https://ssh101.bozztv.com/ssh101/frutillar1017/playlist.m3u8
