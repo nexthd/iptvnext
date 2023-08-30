@@ -2,4 +2,4 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextDATA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1280x720,VIDEO="src"
-https://xhateaec.com:8800/hls/Ariguatv/Ariguatv/c9ae2ddaa40b57ada4fc349bfa512540/index.m3u8
+https://live.enhdtv.com:19360/10rtv/10rtv.m3u8
