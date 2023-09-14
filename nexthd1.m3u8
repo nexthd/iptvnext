@@ -2,4 +2,4 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextEvento",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1080x720,VIDEO="src"
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+https://live.enhdtv.com:19360/10rtv/10rtv.m3u8
