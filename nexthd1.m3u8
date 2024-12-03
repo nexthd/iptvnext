@@ -2,5 +2,4 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextEvent",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1080x720,VIDEO="src"
-https://ssh101-fl.bozztv.com/ssh101/ariguatv/tracks-v1a1/mono.m3u8
 https://copacogen.desdeparaguay.net/trecetv/trecetv_alta/chunklist.m3u8
