@@ -1,12 +1,6 @@
+
 #EXTM3U
 #EXT-X-VERSION:4
-
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextEvent",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
-
-# 1080p
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",VIDEO="src"
-https://live20.bozztv.com/giatv/giatv-canalnexthd/canalnexthd/chunks.m3u8
-
-# 720p
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",VIDEO="src"
-https://live20.bozztv.com/giatv/giatv-canalnexthd/canalnexthd/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1920x1080,VIDEO="src"
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
