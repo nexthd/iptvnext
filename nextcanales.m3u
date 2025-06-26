@@ -7,7 +7,7 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", atvprueba
-https://live.enhdtv.com:19360/8038/8038.m3u8
+https://raw.githubusercontent.com/nexthd/iptvnext/refs/heads/main/PRUEBAUX.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Lim TV" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/290433377_5849446228417002_1295232288420533377_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZoQiNuVEyoEAX9ulB12&_nc_ht=scontent.fasu9-1.fna&oh=00_AfCJREsWKPWtc4CVqa8nTX4KQr1VRf9Bgu-CMRxmQ_Uh1g&oe=636AEFB0", Lim TV
 https://live.limplay.ml/limtv.m3u8
