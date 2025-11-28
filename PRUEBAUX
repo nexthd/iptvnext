@@ -1,5 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextEvent",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1920x1080,VIDEO="src"
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://live.enhdtv.com/hls/nexthd/nexthd.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+https://live21.bozztv.com/giatv/giatv-canalnexthd/canalnexthd/playlist.m3u8
