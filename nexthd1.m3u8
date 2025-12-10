@@ -2,4 +2,4 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextec",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1920x1080,VIDEO="src"
-https://live.enhdtv.com/hls/8038/8038.m3u8
+https://live20.bozztv.com/giatv/giatv-canalnexthd/canalnexthd/playlist.m3u8
