@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="NACIONALES" tvg-name="NEXT HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png", NEXT HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
+#EXTINF:-1 group-title="NACIONALES" tvg-name="NEXT HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png", NEXT HD
+https://raw.githubusercontent.com/nexthd/iptvnext/refs/heads/main/canalnext2.m3u8
+
 #EXTINF:-1 group-title="NACIONALES" tvg-name="AC TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
 https://live.enhdtv.com:19360/actv-capiata/actv-capiata.m3u8
 
